@@ -9,6 +9,10 @@
     "request-ip": "^2.0.2",
     "useragent": "^2.3.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadabmm/header-parser.git"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node server.js"
